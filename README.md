@@ -1,4 +1,5 @@
 
+
 # 3D BALL GAME
 
 The main objective of this game is to collect the coins
@@ -30,5 +31,7 @@ All the [requirments](https://docs.unity3d.com/Manual/system-requirements.html) 
 # Installing the Project
 Download the project, open it, run the Scene file, and you can start to work on it immediately!
 
-
-
+![1](https://user-images.githubusercontent.com/89156099/129963594-6fcab533-0435-4855-911f-8fc8d5a86b12.PNG)
+![2](https://user-images.githubusercontent.com/89156099/129963597-019071ad-fcf5-468c-ae1e-b48575301937.PNG)
+![3](https://user-images.githubusercontent.com/89156099/129963588-9b2108db-cdb9-4477-8441-a048af7f82ef.PNG)
+![4](https://user-images.githubusercontent.com/89156099/129963591-fc8d0996-b792-4079-970e-8603d93d4ab5.png)
